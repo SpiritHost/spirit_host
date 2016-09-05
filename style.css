@@ -18,7 +18,7 @@ body {
     padding-top: 0px;
     padding-bottom: 0px;
     list-style: none;
-    display: inherit;
+    display: inline;
 }
 .navbar a {
     transition: 0.15s all ease;
@@ -52,4 +52,13 @@ body {
 }
 hr {
     border: 1px solid rgba(0, 0, 0, 0.2);
+}
+h2 {
+    margin: 0;
+}
+.error {
+    background-color: rgba(255, 61, 0, 0.23);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 700;
 }
