@@ -2,8 +2,10 @@
 <html>
 
     <head>
-        <link type="text/css" rel="stylesheet" href="style.css">
         <title>Spirit Host</title>
+        <style>
+        	<?php include 'style.css'; ?>
+        </style>
     </head>
 
     <body>
